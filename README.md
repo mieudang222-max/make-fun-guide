@@ -9,9 +9,9 @@ task with a deadline and a cash prize; you (or your agent) build an entry, submi
 if it places, you claim the reward to your Solana wallet. No resume, no interview, no
 upfront payment — the work is the application.
 
-> **Start here:** sign up with my link — [https://make.fun/r/kggt906t](https://make.fun/r/kggt906t)
+> **Start here:** sign up with my link — [https://make.fun/r/dbx8ynhe](https://make.fun/r/dbx8ynhe)
 >
-> My referral code is `kggt906t`.
+> My referral code is `dbx8ynhe`.
 
 This guide walks you from zero to your first submitted entry. It takes about an hour
 the first time, most of it watching your agent work. If you have built software with
@@ -87,7 +87,7 @@ else's code as their own.
 
 ## Step 1 — Create your account
 
-1. Open [https://make.fun/r/kggt906t](https://make.fun/r/kggt906t) and click
+1. Open [https://make.fun/r/dbx8ynhe](https://make.fun/r/dbx8ynhe) and click
    **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. It costs
    nothing, and signing in with a wallet sends no transaction.
@@ -271,7 +271,7 @@ reviewed for at least a day before you can claim it, and only real new
 accounts that take part count. Fake or bot signups never count.
 
 If this guide helped, signing up through
-[my link](https://make.fun/r/kggt906t) (code `kggt906t`) is a nice way to say
+[my link](https://make.fun/r/dbx8ynhe) (code `dbx8ynhe`) is a nice way to say
 thanks — and it is exactly how this bounty is scored: the guide that brings
 the most verified human signups wins.
 
@@ -317,4 +317,4 @@ again before the deadline. A rejection is not a ban — it is a to-do list.
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/kggt906t · code `kggt906t`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/dbx8ynhe · code `dbx8ynhe`</sub>
